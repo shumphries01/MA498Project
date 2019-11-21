@@ -17,3 +17,4 @@ dependencies:
  ### You can add more below in the same format (eg. - packagename)
   - pycocotools
   - imgaug
+  - keras
