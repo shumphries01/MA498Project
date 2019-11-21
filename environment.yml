@@ -15,3 +15,4 @@ dependencies:
   - tensorflow-gpu
   - cudatoolkit
  ### You can add more below in the same format (eg. - packagename)
+  - pycocotools
