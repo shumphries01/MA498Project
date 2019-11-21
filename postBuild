@@ -7,4 +7,7 @@ jupyter lab build
 ##
 
 #Let's say I want to clone a repository of my work so I can edit my files and push my changes back to GitHub.
-git clone https://github.com/wp-cdas/ExampleRepo.git
+git clone https://github.com/shumphries01/Mask_RCNN.git
+git clone https://github.com/shumphries01/pytorch-mask-rcnn.git
+git clone https://github.com/shumphries01/unet.git
+
