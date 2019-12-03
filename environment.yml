@@ -18,3 +18,5 @@ dependencies:
   - pycocotools
   - imgaug
   - keras
+  - coco
+  - cv2
