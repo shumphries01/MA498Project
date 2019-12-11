@@ -18,3 +18,4 @@ dependencies:
   - pycocotools
   - imgaug
   - keras
+  - pyqt=5.9.2
