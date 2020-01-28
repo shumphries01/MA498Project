@@ -19,3 +19,5 @@ dependencies:
   - imgaug
   - keras
   - pandas
+  - numpy
+  - xlrd
