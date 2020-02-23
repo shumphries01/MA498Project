@@ -21,4 +21,4 @@ dependencies:
   - pandas
   - numpy
   - xlrd
-  - cv2
+  - opencv-python
