@@ -2,3 +2,4 @@
 
 #You can just list the package names here:
 libgl1-mesa-glx
+opencv-python
